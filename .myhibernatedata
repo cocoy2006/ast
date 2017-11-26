@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Tue Jun 16 15:19:34 CST 2015
+genVersionTag=false
+sessionFactoryName=ast.molab.main.java.HibernateSessionFactory
+genAnnotations=false
+configFile=/ast/src/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
